@@ -5,7 +5,7 @@
 # from dash import Dash, html, dcc
 
 # # Paths
-# data_directory = r"C:\Users\user\.cache\kagglehub\datasets\patrickfleith\nasa-battery-dataset\versions\2\cleaned_dataset\data"
+# data_directory = r"/home/kadam36/battery_analysis_nasa/battery_dataset/data"
 
 # # Dash app
 # app = Dash(__name__)
